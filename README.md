@@ -5,8 +5,9 @@
 </div>
 
 
-<p align="center">
-<img width="240" height="150" alt="gif" src="https://i.pinimg.com/originals/77/67/83/776783fc5de8a3a3b76e36d35a670784.gif">
+<div align="center">
+<img width="540" height="300" alt="image" src="https://i.pinimg.com/originals/be/e9/cd/bee9cd7b81646466c539e699dc50f3ba.gif" />
+</div>
   
   <p style="margin-bottom: 30px;" align="center">
   <p align="center">
