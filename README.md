@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=samuelroukin&label=lieutenant&style=flat-square&color=797979&abbreviated=true)
+  ![](https://komarev.com/ghpvc/?username=samuelroukin&label=bullets&style=flat-square&color=797979&abbreviated=true)
   
 </div>
 
