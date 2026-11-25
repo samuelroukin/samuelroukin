@@ -11,6 +11,5 @@
   <div align="center">
     <details>
   <summary></summary>
-      i really like all simon rileys from cod<div></div>
-      <img width="222" height="145" alt="da09924f2ea4c3e55598c9ca76126cdb" src="https://github.com/user-attachments/assets/6abfdea9-814c-4365-a2f1-fb3f42b8ae1d" />
+      i really like all simon rileys from cod
     </details>
