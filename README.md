@@ -8,3 +8,5 @@
   <p style="margin-bottom: 30px;" align="center">
   <p align="center">
   <a href="https://harrington.atabook.org/">atabook</a>
+  <div align="center">
+  <summary></summary>
