@@ -1,8 +1,4 @@
-<div align="center">
-  
-  ![](https://komarev.com/ghpvc/?username=samuelroukin&label=civilians&style=flat-square&color=797979&abbreviated=true)
-  
-</div>
+
 
 
 <div align="center">
