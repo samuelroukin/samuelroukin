@@ -11,5 +11,5 @@
   <div align="center">
     <details>
   <summary></summary>
-      hi im joseph
+      i really like all simon rileys from cod
     </details>
