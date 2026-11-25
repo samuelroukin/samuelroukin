@@ -11,5 +11,6 @@
   <div align="center">
     <details>
   <summary></summary>
-      i really like all simon rileys from cod
+      i really like all simon rileys from cod<div></div>
+      i also love talking a lot
     </details>
