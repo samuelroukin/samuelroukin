@@ -7,7 +7,7 @@
   
   <p style="margin-bottom: 30px;" align="center">
   <p align="center">
-  <a href="https://harrington.atabook.org/">atabook</a>
+  <a href="https://harrington.atabook.org/">atabook</a> <a href="https://09ghost.straw.page/">strawpage</a>
   <div align="center">
     <details>
   <summary></summary>
