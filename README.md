@@ -9,4 +9,7 @@
   <p align="center">
   <a href="https://harrington.atabook.org/">atabook</a>
   <div align="center">
+    <details>
   <summary></summary>
+      hi im joseph
+    </details>
